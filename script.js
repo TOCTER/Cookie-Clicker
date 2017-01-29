@@ -1,1 +1,3 @@
-var cookies = 0;
+var cookieQuantity = 0;
+
+$(.cookies).click() {
