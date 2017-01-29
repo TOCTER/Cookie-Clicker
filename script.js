@@ -1,3 +1,5 @@
 var cookieQuantity = 0;
 
-var cookieQuantityElement = document.getElementBydId('cookieQuantity');
+$('.cookieQuantity').on('click', function() {
+  var cookieQuantityElement = document.getElementBydId('cookieQuantity');
+}
