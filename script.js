@@ -1,6 +1,6 @@
 var cookieQuantity = 0;
 
 $('.cookieQuantity').on('click', function() {
-  cookie++
+  cookieQuantity++
   var cookieQuantityElement = document.getElementBydId('cookieQuantity');
 });
